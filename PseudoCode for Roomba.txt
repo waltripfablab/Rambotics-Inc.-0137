@@ -1,0 +1,8 @@
+Byte starts in watch floor.
+Using tophat sensor it will follow the internal network connection to collect files.
+Knocking down the Patch Holder in the process.
+Using a color sensor we will categorize files into two groups.(Corrupt and Benign)
+Using an arm mechanism when the robot is 20 inches away from the arm it will start raising the arm and flicking the switch.
+Using the bumper sensor that is built in byte will know when it hits the end.
+It will then turn 180 degrees and drive forward 36 inches, aka the location of the backup room, and will deposit the corrupt files.
+Finally it will turn 90 degrees and drive forward 6 inches, aka the location of the Analysis Lab and deposit the Benign files. 

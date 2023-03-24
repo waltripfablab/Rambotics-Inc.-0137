@@ -1,0 +1,7 @@
+Bit starts in backup room.
+Waits one minute.
+Turns -90 degrees, and using a tophat sensor to follow the internal network connection until it reaches the external network connection.
+Using a hopper mechanicsm it will collect both Malicious and Benign Packets.
+Using a color sensor it will sort them.
+It will then turn 180 degrees and drive forward 36 inches, aka the location of the backup room, turn -90 degrees and will deposit the Malicious Packets.
+Finally it will turn -90 degrees and drive forward 6 inches, aka the location of the Analysis Lab and deposit the Benign Packets.
